@@ -14,7 +14,7 @@
   "dependencies": {
     "bn.js": "^4.11.8",
     "fs": "0.0.1-security",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "truffle-contract": "^3.0.1",
     "truffle-hdwallet-provider": "0.0.3",
     "web3": "^1.0.0-beta.27",
